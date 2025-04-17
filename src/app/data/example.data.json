@@ -1,0 +1,71 @@
+{
+    "personal": {
+      "name": "Juan Pérez García",
+      "title": "Desarrollador Front End",
+      "birthplace": "Madrid, España (1990)",
+      "contacts": {
+        "linkedin": "https://www.linkedin.com/in/juanperez-ejemplo",
+        "phone": "+34 600 00 00 00",
+        "email": "juan.perez@ejemplo.com"
+      }
+    },
+    "education": [
+      {
+        "degree": "Grado en Ingeniería Informática",
+        "institution": "Universidad Tecnológica de Madrid",
+        "location": "Madrid",
+        "period": "2010 - 2014"
+      },
+      {
+        "degree": "Ciclo Formativo Grado Superior en Desarrollo de Aplicaciones Web",
+        "institution": "IES Tecnológico",
+        "location": "Barcelona",
+        "period": "2008 - 2010"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Español",
+        "level": "Nativo"
+      },
+      {
+        "language": "Inglés",
+        "level": "Avanzado"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Desarrollador Front End Senior",
+        "company": "Soluciones Tecnológicas S.L.",
+        "period": "2023 - Actualidad",
+        "stack": "React, TypeScript, Next.js",
+        "responsibilities": [
+          "Desarrollo y mantenimiento de la aplicación web principal de la empresa",
+          "Implementación de pipelines CI/CD que redujeron el tiempo de despliegue en un 40%",
+          "Mentoría a desarrolladores junior en buenas prácticas con React"
+        ]
+      },
+      {
+        "position": "Desarrollador Front End",
+        "company": "Agencia Digital Creativa",
+        "period": "2018 - 2023",
+        "stack": "React, Redux, Sass",
+        "responsibilities": [
+          "Construcción de tiendas online responsive para múltiples clientes",
+          "Creación de biblioteca de componentes que mejoró la velocidad de desarrollo",
+          "Optimización del rendimiento logrando tiempos de carga 30% más rápidos"
+        ]
+      },
+      {
+        "position": "Desarrollador Web Junior",
+        "company": "StartUp Innovadora",
+        "period": "2015 - 2018",
+        "stack": "JavaScript, jQuery, PHP",
+        "responsibilities": [
+          "Desarrollo de herramientas internas para automatizar procesos empresariales",
+          "Mantenimiento del sitio web corporativo y blog",
+          "Participación en la migración de jQuery a React"
+        ]
+      }
+    ]
+  }
